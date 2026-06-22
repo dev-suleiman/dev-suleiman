@@ -1,66 +1,66 @@
-<h1 align="center">Hi, I'm Suleiman 👋</h1>
-<h3 align="center">Software Engineer · Backend, Cloud & DevOps</h3>
+<div align="center">
 
-<p align="center">
-  Building scalable backend systems and cloud infrastructure · AWS Certified · Based in Kumasi, Ghana 🇬🇭
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Suleiman+%F0%9F%91%8B;Software+Engineer;Backend+%7C+Cloud+%7C+DevOps" alt="Typing SVG" />
+
+<p>
+  Building robust backend systems and cloud infrastructure. <br/>
+  AWS Certified · Based in Accra, Ghana.
 </p>
+
+</div>
 
 ---
 
-## 🧰 Tech Stack
+## 📬 How to Reach Me
 
-**Languages**
+<div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=3776AB)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suleiman-baba-mohammed-0179a824b)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bmdanjumah@gmail.com)
 
-**Backend & Frameworks**
-
-![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=for-the-badge&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-0a0a0a?style=for-the-badge&logo=express&logoColor=ffffff)
-![NestJS](https://img.shields.io/badge/NestJS-0a0a0a?style=for-the-badge&logo=nestjs&logoColor=E0234E)
-
-**Cloud, DevOps & Infrastructure**
-
-![AWS](https://img.shields.io/badge/AWS-0a0a0a?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Terraform](https://img.shields.io/badge/Terraform-0a0a0a?style=for-the-badge&logo=terraform&logoColor=7B42BC)
-![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0a0a0a?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
-![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=for-the-badge&logo=linux&logoColor=FCC624)
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Languages and Frameworks
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-suleiman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=7B42BC" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-suleiman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dev-suleiman&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=58a6ff&fire=7B42BC&currStreakLabel=58a6ff" />
-</p>
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NESTJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/TERRAFORM-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
 
 ---
 
 ## 🏅 Certifications
 
-- ☁️ AWS Certified Cloud Practitioner
-- ☁️ AWS Certified Solutions Architect – Associate
+<div align="center">
+
+![AWS CCP](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</div>
 
 ---
 
-## 🤝 Connect
+## 🔥 My GitHub Streak
 
-<p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE">
-    <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-  </a>
-</p>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=dev-suleiman&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=58a6ff&fire=7B42BC&currStreakLabel=58a6ff" alt="GitHub Streak" />
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dan&style=flat-square&color=58a6ff" alt="Profile views" />
-</p>
