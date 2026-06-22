@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Dan 👋</h1>
+<h1 align="center">Hi, I'm Suleiman 👋</h1>
 <h3 align="center">Software Engineer · Backend, Cloud & DevOps</h3>
 
 <p align="center">
@@ -34,12 +34,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=7B42BC" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-suleiman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=7B42BC" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-suleiman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dan&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=58a6ff&fire=7B42BC&currStreakLabel=58a6ff" />
+  <img src="https://streak-stats.demolab.com?user=dev-suleiman&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=58a6ff&fire=7B42BC&currStreakLabel=58a6ff" />
 </p>
 
 ---
