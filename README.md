@@ -11,7 +11,7 @@
 
 ---
 
-## 📬 How to Reach Me
+<h2 align="center"> 📬 How to Reach Me </h2>
 
 <div align="center">
 
@@ -22,7 +22,7 @@
 
 ---
 
-## 🛠️ Languages and Frameworks
+<h2 align="center"> 🛠️ Languages and Frameworks </h2>
 
 <div align="center">
 
@@ -43,7 +43,7 @@
 
 ---
 
-## 🏅 Certifications
+<h2 align="center"> 🏅 Certifications </h2>
 
 <div align="center">
 
@@ -54,7 +54,7 @@
 
 ---
 
-## 🔥 My GitHub Streak
+<h2 align="center"> 🔥 My GitHub Streak </h2>
 
 <div align="center">
 
