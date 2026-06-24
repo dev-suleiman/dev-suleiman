@@ -58,7 +58,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=dev-suleiman&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=58a6ff&fire=7B42BC&currStreakLabel=58a6ff" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=dev-suleiman&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=58a6ff&fire=7B42BC&currStreakLabel=58a6ff&timezone=Africa%2FAccra" alt="GitHub Streak" />
 
 </div>
 
