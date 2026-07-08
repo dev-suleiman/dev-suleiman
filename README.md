@@ -54,7 +54,7 @@
 
 ---
 
-<h2 align="center"> 🔥 My GitHub Streak </h2>
+<h2 align="center"> 🔥 My GitHub Strea </h2>
 
 <div align="center">
 
