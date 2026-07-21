@@ -11,7 +11,7 @@
 
 ---
 
-<h2 align="center"> 📬 How to Reach M </h2>
+<h2 align="center"> 📬 How to Reach Me </h2>
 
 <div align="center">
 
